@@ -1,6 +1,7 @@
 {
   "name": "shoot-em-refactored",
   "version": "1.0.0",
+  "homepage": "https://0xlvl3.github.io/shoot-em-refactored/public/index.html",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,8 +17,8 @@
   "bugs": {
     "url": "https://github.com/0xlvl3/shoot-em-refactored/issues"
   },
-  "homepage": "https://github.com/0xlvl3/shoot-em-refactored#readme",
   "devDependencies": {
+    "gh-pages": "^4.0.0",
     "webpack": "^5.74.0",
     "webpack-cli": "^4.10.0"
   }
