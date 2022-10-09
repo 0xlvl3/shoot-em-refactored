@@ -133,7 +133,7 @@ function spawnPowerUps() {
         imageSrc: "./img/lightningBolt.png",
       })
     );
-  }, 45000);
+  }, 50000);
 }
 
 /**
