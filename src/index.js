@@ -1,11 +1,11 @@
 //imports
-import Enemy from "./src/classes/Enemy.js";
-import Player from "./src/classes/Player.js";
-import Particle from "./src/classes/Particle.js";
-import Projectile from "./src/classes/Projectile.js";
-import PowerUp from "./src/classes/PowerUp.js";
-import BackgroundParticle from "./src/classes/BackgroundParticle.js";
-import audio from "./src/audio.js";
+import Enemy from "./classes/Enemy.js";
+import Player from "./classes/Player.js";
+import Particle from "./classes/Particle.js";
+import Projectile from "./classes/Projectile.js";
+import PowerUp from "./classes/PowerUp.js";
+import BackgroundParticle from "./classes/BackgroundParticle.js";
+import audio from "./audio.js";
 
 //elements
 const scoreEl = document.getElementById("scoreEl");
