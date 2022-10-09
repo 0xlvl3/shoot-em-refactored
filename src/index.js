@@ -130,10 +130,10 @@ function spawnPowerUps() {
       new PowerUp({
         position: { x: -30, y: Math.random() * canvas.height },
         velocity: { x: Math.random() + 2, y: 0 },
-        imageSrc: "/img/lightningBolt.png",
+        imageSrc: "./img/lightningBolt.png",
       })
     );
-  }, 45000);
+  }, 4500);
 }
 
 /**
